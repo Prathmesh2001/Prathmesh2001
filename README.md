@@ -2,6 +2,8 @@
 I'm Prathmesh Waghmode<br>
 
 🔭I'm a passionate Full Stack Developer with a strong inclination towards frontend development. <br>My current work gives me hands-on experience in building complex banking systems.<br>
+
+
 I’ve worked extensively with:
 <ul>
 <li>React JS( Micro Frontends, React Query and React Redux)
