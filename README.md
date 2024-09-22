@@ -11,13 +11,9 @@ I’ve worked extensively with:
 <li>On the DevOps side, I've written Groovy scripts for Jenkins pipelines and have implemented deployment strategies such as blue-green deployments.
 <li>I have practical experience in CI/CD pipelines and love building scalable and maintainable systems. 
 </ul>
-
-
 <br><br>🌱 What I’m currently interested in
 <br>I’m want to dive deep into cloud technologies, focusing on AWS and Kubernetes, aiming to expand my expertise in cloud-native applications.
-
 <br><br>💬 Ask Me About<br>If you have any questions related to UI development, styling, or micro frontends using React.js, feel free to reach out!
-
 <br><br>⚡Fun Fact<br>I interned for 10 months at JPMC during my undergrad, where I got a chance to build real-world financial applications!<br><br>
 
 
